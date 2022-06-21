@@ -17,7 +17,7 @@
                         <img src="Imagenes/IconoEm.png" align="left" class="auto-style1" width="150px"></td>
                 </tr>
                 <tr>
-                    <td >Usuario:</td>
+                    <td >Usuarios:</td>
                     <td >
                         <asp:TextBox ID="TxtUs" runat="server" CssClass="control"></asp:TextBox></td>
                     <td ></td>
